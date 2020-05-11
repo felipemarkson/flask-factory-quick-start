@@ -15,7 +15,7 @@ $ FLASK_APP=myapp/app.py flask run
 
 
 
-The application use the factory pattern to build a Flask app. The ```app.py``` has the ```create_app``` factory that is automatic identified by Flask. The ```blueprint``` folder is where the application's [Blueprints](https://flask.palletsprojects.com/en/master/blueprints/#blueprints) are defined. The ```extensions``` folder is where the extensions factories are defined.
+The application uses the factory pattern to build a Flask app. The ```app.py``` has the ```create_app``` factory that is automatically identified by Flask. The ```blueprint``` folder is where the application's [Blueprints](https://flask.palletsprojects.com/en/master/blueprints/#blueprints) are defined. The ```extensions``` folder is where the extensions factories are defined.
 
 ### The project structure
 
