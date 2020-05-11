@@ -39,4 +39,4 @@ The application use the factory pattern to build a Flask app. The ```app.py``` h
 
 
 > That structure is highly inspered by [Flask's Application Factories Pattern](https://flask.palletsprojects.com/en/master/patterns/appfactories/)
-and [Arquitetura Definitiva para o Projeto Web com Python e Flask](https://www.youtube.com/watch?v=-qWySnuoaTM) ([repository](https://github.com/codeshow/003-arquitetura-flask)) created by @rochacbruno.
+and [Arquitetura Definitiva para o Projeto Web com Python e Flask](https://www.youtube.com/watch?v=-qWySnuoaTM) ([repository](https://github.com/codeshow/003-arquitetura-flask)) created by [@rochacbruno](https://github.com/rochacbruno).
